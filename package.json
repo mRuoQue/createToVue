@@ -1,0 +1,22 @@
+{
+  "name": "createtovue",
+  "version": "1.0.0",
+  "description": "快速构建v3项目基础模版",
+  "main": "index.js",
+  "bin": {
+    "ctVue": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.8",
+    "inquirer": "^8.0.0"
+  }
+}
