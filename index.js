@@ -1,7 +1,5 @@
+#!/usr/bin/env node
 
-const {program }  = require('commander')
-const command = require('./lib/index')
+const {command} = require("./lib/index");
 
-command()
-
-program.parse(process.argv)
+command();
