@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const {command} = require("./lib/index");
+const {__command} = require("./lib/index");
 
-command();
+__command();
