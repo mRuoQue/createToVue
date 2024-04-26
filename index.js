@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const {__command} = require("./lib/index");
+import __command from './lib/index.js'
 
 __command();
