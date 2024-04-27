@@ -1,6 +1,6 @@
 {
   "name": "create2vue",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "快速构建v3项目基础模版",
   "main": "index.js",
   "type": "module",
@@ -22,6 +22,7 @@
     "ejs": "^3.1.8",
     "figlet": "^1.7.0",
     "inquirer": "^8.2.0",
-    "ora": "^8.0.1"
+    "ora": "^8.0.1",
+    "url": "^0.11.3"
   }
 }
