@@ -14,6 +14,7 @@
 * [github:] https://github.com/mRuoQue/createToVue.git
     > 安装方式
     > smallma create app-name | smallma c app-name (项目名称是必填的) ---- 创建项目
-    > 
+    > 提交代码到自己远程仓库时候，注意设置remote url
+    > git remote set-url origin <远端仓库地址>
 
 
