@@ -13,7 +13,7 @@
 
 * [github:] https://github.com/mRuoQue/createToVue.git
     > 安装方式
-    > ctVue create app-name | ctVue c app-name (项目名称是必填的) ---- 创建项目
+    > smallma create app-name | smallma c app-name (项目名称是必填的) ---- 创建项目
     > 
 
 

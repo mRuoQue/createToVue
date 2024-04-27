@@ -1,11 +1,11 @@
 {
   "name": "create2vue",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "快速构建v3项目基础模版",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "ctVue": "index.js"
+    "smallma": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
